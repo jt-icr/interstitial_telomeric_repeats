@@ -18,7 +18,9 @@ outputs the intersect of both to bedfile format, allows for merging, removal
 of duplicates, and counting of intersects.
 
 All code in this module conforms to the PEP 0008 Python style guide with
-the aid of the pep8 program.'''
+the aid of the pep8 program.
+
+Dependancy: pybedtools [https://daler.github.io/pybedtools/]'''
 
 from os import listdir, chdir
 from shutil import copyfileobj
