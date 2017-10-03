@@ -1,4 +1,5 @@
 #!/usr/bin/env python3.5
+# J.P. Tomkins <jtomkins@icr.org>
 
 '''Extracts the UCSC genome coordinates from a bed file in a format that
 can be entered into the UCSC Genome Browser .'''
