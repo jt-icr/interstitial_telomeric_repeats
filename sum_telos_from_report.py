@@ -1,4 +1,6 @@
 #!/usr/bin/env python3.5
+# J.P. Tomkins <jtomkins@icr.org>
+
 import sys
 
 args = sys.argv[1:]
