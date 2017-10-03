@@ -1,5 +1,6 @@
 #!/usr/bin/env python3.5
 # J.P. Tomkins <jtomkins@icr.org>
+# Sums data from telo_finder.py output report
 
 import sys
 
